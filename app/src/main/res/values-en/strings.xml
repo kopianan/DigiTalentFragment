@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DigiTalentSubmission</string>
+    <string name="change_language">Change language</string>
+    <string name="change_message">Language Has Been Changed</string>
+    <string name="detail_title">Detail</string>
+    <string name="movie_detail">Film Detail</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="tv_actors">Actors</string>
+    <string name="tv_sinposis">Synopsis</string>
+</resources>

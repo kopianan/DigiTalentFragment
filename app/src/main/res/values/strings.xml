@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DigiTalentSubmission</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_show">TV Show</string>
+
+    <string name="tv_sinposis">Sinopsis</string>
+    <string name="tv_actors">Aktor</string>
+    <string name="movie_detail">Film Detail</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="change_message">Bahasa Telah diganti</string>
+    <string name="detail_title">Detil</string>
+</resources>
